@@ -1,4 +1,3 @@
-### Hi there 👋
 - 👋 Hi! I'm Dhanvi Bharadwaj
 - ⚡ I'm interested in Quantum Computing ,Machine Learning & Software Development
 - 🎓 I study Physics & Data Science @ UW-Madison
