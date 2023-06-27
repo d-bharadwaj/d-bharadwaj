@@ -5,5 +5,4 @@
 - 🍀 I work as a Quantum Machine Learning Intern @ Oak Ridge National Lab
 - 🤝 I’m looking to collaborate on various projects!
 - 📫 You can reach me at dhanvibharad@gmail.com and <a href=https://www.linkedin.com/in/d-bharadwaj/> Linkedin/d-bharadwaj </a>
-
-  If you are interested in more details, check out <a href=https://d-bharadwaj.github.io/website/ >my website</a>!
+- 🕸  If you are interested in more details, check out <a href=https://d-bharadwaj.github.io/website/ >my website</a>!
