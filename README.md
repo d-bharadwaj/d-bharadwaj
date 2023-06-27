@@ -1,5 +1,4 @@
 <h2 align = center><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm Dhanvi Bharadwaj </h2>
-<body align = center> 
   
 <center>
 - ⚡ <b> I'm interested in Quantum Computing, Machine Learning & Software Development </center>
