@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 👋 Hi! I'm Dhanvi Bharadwaj
+- ⚡ I'm interested in Quantum Computing ,Machine Learning & Software Development
+- 🎓 I study Physics & Data Science @ UW-Madison
+- 🍀 I work as a Quantum Machine Learning Intern @ Oak Ridge National Lab
+- 🤝 I’m looking to collaborate on various projects
+- 📫 You can reach me at dhanvibharad@gmail.com
 <!--
 **d-bharadwaj/d-bharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
