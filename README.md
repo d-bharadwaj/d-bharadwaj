@@ -1,7 +1,6 @@
 <h2 align = center><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm Dhanvi Bharadwaj </h2>
   
-<center>
-- ⚡ <b> I'm interested in Quantum Computing, Machine Learning & Software Development </center>
+- ⚡ <b> I'm interested in Quantum Computing, Machine Learning & Software Development
 - 🎓 <b> I'm an undergraduate student studying Physics & Data Science @ UW-Madison
 - 🍀  I work as a Quantum Machine Learning Intern @ Oak Ridge National Lab
 - 🤝 I’m looking to collaborate on various projects!
