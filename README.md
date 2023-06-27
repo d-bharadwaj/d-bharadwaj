@@ -2,7 +2,7 @@
   
 - ⚡ I'm interested in Quantum Computing, Machine Learning & Software Development
 - 🎓 I'm an undergraduate student studying Physics & Data Science @ UW-Madison
-- 🍀 I work as a Quantum Machine Learning Intern @ Oak Ridge National Lab
+- 🍀 I work as a Quantum Machine Learning Intern @ Oak Ridge National Laboratory
 - 🤝 I’m looking to collaborate on various projects!
 - 📫 You can reach me at dhanvibharad@gmail.com and <a href=https://www.linkedin.com/in/d-bharadwaj/> Linkedin/d-bharadwaj </a>
 
