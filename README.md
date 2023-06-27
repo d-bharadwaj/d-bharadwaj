@@ -6,4 +6,3 @@
 - 🍀  I work as a Quantum Machine Learning Intern @ Oak Ridge National Lab
 - 🤝 I’m looking to collaborate on various projects!
 - 📫 Contact me at dhanvibharad@gmail.com </b>
-</body>
