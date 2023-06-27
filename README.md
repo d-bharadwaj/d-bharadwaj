@@ -1,4 +1,4 @@
-<center><h2>👋 Hi! I'm Dhanvi Bharadwaj </h2></center>
+<h2 align = center>👋 Hi! I'm Dhanvi Bharadwaj </h2>
 
 - ⚡ I'm interested in Quantum Computing, Machine Learning & Software Development
 - 🎓 I study Physics & Data Science @ UW-Madison
