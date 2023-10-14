@@ -1,4 +1,4 @@
-<h2 align = center><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm Dhanvi Bharadwaj </h2>
+<h2 align = center><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://github.com/d-bharadwaj/d-bharadwaj/blob/main/wave_readme.gif" width="30px"> Hi! I'm Dhanvi Bharadwaj </h2>
   
 - ⚡ I'm passionate about Quantum Computing, Machine Learning & Software Development
 - 🎓 I'm an undergraduate student studying Physics & Data Science @ UW-Madison
