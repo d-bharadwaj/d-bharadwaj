@@ -2,7 +2,7 @@
   
 - ⚡ I'm passionate about Quantum Computing, Machine Learning & Software Development
 - 🎓 I'm an undergraduate student studying Physics & Data Science @ UW-Madison
-- 🔮 I work as a Software Engineer Intern at qBraid
+- 🔮 I currently work as a Quantum Computing Software Intern in the cuQuantum team @ NVIDIA 
 - 🤝 I’m interested in collaborating on open-source projects!
 - 📫 You can reach me at dhanvibharad@gmail.com or connect with me on<a href = https://www.linkedin.com/in/d-bharadwaj/> LinkedIn </a>
 
