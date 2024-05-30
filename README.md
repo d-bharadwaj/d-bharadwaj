@@ -1,6 +1,6 @@
 <h2 align = center><img src="./wave_readme.gif" width="30px"> Hi! I'm Dhanvi Bharadwaj </h2>
   
-- ⚡ I'm passionate about Quantum Computing, Machine Learning & Software Development
+- ⚡ I'm passionate about Quantum Computing, Software Development & Machine Learning 
 - 🎓 I'm an undergraduate student studying Physics & Data Science @ UW-Madison
 - 🔮 I currently work as a Quantum Computing Software Intern in the cuQuantum team @ NVIDIA 
 - 🤝 I’m interested in collaborating on open-source projects!
